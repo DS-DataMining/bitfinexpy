@@ -1,2 +1,11 @@
 .idea
 *.pyc
+.cache.data/
+env/
+.env
+.vscode
+__pycache__
+*.pyc
+.idea/
+.idea/*
+.data/
